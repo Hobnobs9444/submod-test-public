@@ -1,0 +1,3 @@
+[submodule "submod-test-private"]
+	path = submod-test-private
+	url = https://github.com/Hobnobs9444/submod-test-private
